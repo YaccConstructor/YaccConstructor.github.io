@@ -71,3 +71,8 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+comments :
+  provider : disqus
+  disqus :
+    short_name : jekyllbootstrap
