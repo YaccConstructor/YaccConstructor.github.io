@@ -1,7 +1,7 @@
 ---
 layout: post
 category: YC
-title: You're up and running!
+title: First post!
 comments: True
 tags: [hello]
 ---
